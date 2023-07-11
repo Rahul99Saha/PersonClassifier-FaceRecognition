@@ -3,15 +3,15 @@ Open CV : Face Detection using Haar Cascade
 Helps to classify sports person by their face. So we to collect the dataset and clean and then predict by using ML
 ##Model in master branch
 
-In this data science and machine learning project, we classify personalities.
-Here is the folder structure,
+In this project, we classified personalities.
+STRUCTURE : 
 * UI : Website Design 
 * server: Python flask server
 * model: Contains python notebook for model building
 * google_image_scrapping: code to scrap google for images
 * images_dataset: Dataset used for our model training
 
-Technologies used in this project,
+TECH USED : 
 1. Python
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
